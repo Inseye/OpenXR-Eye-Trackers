@@ -114,3 +114,6 @@ using Microsoft::WRL::ComPtr;
 #include <utils/inputs.h>
 
 #include "layer.h"
+
+// Inseye SDK
+#include <remote_connector.h>
